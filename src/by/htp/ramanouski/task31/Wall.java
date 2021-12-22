@@ -1,4 +1,4 @@
-package by.htp.ramanouski.Task31;
+package by.htp.ramanouski.task31;
 
 public class Wall {
     private double width;
